@@ -57,4 +57,8 @@
 <h4>1.1.6 Evaluating entry criteria</h4>
 
 >* The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+  
+  <h4>1.2 Test Monitoring and Control</h4>
+  
+  ![Screenshot_17](https://github.com/Tiberiu97/Proiect-practic-Testare-manuala/assets/135150382/a8e8f453-69be-42c0-b14e-78cc31b253c2)
 
