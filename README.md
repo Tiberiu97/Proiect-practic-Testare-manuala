@@ -62,3 +62,18 @@
   
   ![Screenshot_17](https://github.com/Tiberiu97/Proiect-practic-Testare-manuala/assets/135150382/a8e8f453-69be-42c0-b14e-78cc31b253c2)
 
+  <h4>1.3 Test Analysis</h4>
+  
+>The testing process will be executed based on the above requirements for the Immigration module. The following test conditions were found:
+
+>* Enter data only for mandatory fields and check that the Immigration is created/updated
+  
+>* Enter data for all available fields and check that the Immigration is created/updated
+  
+>* Leave mandatory fields empty and check that the Immigration cannot be created/updated
+  
+>* View dependant details and check they are correct
+  
+>* View all Immigrations in a list
+  
+>* Check all validation constraints for the fields
