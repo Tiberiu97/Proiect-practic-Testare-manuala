@@ -10,7 +10,7 @@
 
 <h2>1.1 Test Planning</h1>
 
->The Test Plan is designed to describe all details of testing for the Immigration module from the OrangeHRM application.
+>The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM application.
 
 >The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
@@ -44,7 +44,7 @@
 
 <h4>1.1.4 Test scope</h4>
 
->* Tests in scope: All the feature of Immigration module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+>* Tests in scope: All the feature of Admin module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 
 >* Tests not in scope: performance testing, integrations of the dependents module with other modules
 
