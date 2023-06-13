@@ -40,7 +40,7 @@
   
 >* no detected major risk remained un-mitigated
   
->* exploratory regression testing must be performed on the My Info module, which includes the Immigration section
+>* exploratory regression testing must be performed on the Admin module, which includes the User manangement section
 
 <h4>1.1.4 Test scope</h4>
 
@@ -64,7 +64,7 @@
 
   <h4>1.3 Test Analysis</h4>
   
->The testing process will be executed based on the above requirements for the Immigration module. The following test conditions were found:
+>The testing process will be executed based on the above requirements for the Admin module. The following test conditions were found:
 
 >* Enter data only for mandatory fields and check that the Immigration is created/updated
   
