@@ -72,7 +72,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
   <h2>1.3 Test Analysis</h2>
   
->The testing process will be executed based on the above requirements for the Admin module. The following test conditions were found:
+The testing process will be executed based on the above requirements for the Immigration module. The following test conditions were found:
 
 >* Enter data only for mandatory fields and check that the Immigration is created/updated
   
