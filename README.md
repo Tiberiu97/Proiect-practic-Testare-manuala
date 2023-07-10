@@ -8,6 +8,12 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 <strong>Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench<strong>.
 
+<h1>Functional specifications</h1>
+
+The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
+
+![Screenshot_4](https://github.com/Tiberiu97/Proiect-practic-Testare-manuala/assets/135150382/e91502e2-98fd-4ef2-8c97-c2def802debe)
+
 <h1>1 Testing section</h1>
 
 <h2>1.1 Test Planning</h1>
