@@ -18,7 +18,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 <h2>1.1 Test Planning</h1>
 
->The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM application.
+>The Test Plan is designed to describe all details of testing for the Immigrations module from the OrangeHRM application.
 
 >The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
@@ -48,13 +48,13 @@ The below Story was created in JIRA and describes the functional specifications 
   
 >* no detected major risk remained un-mitigated
   
->* exploratory regression testing must be performed on the Admin module, which includes the User manangement section
+>* exploratory regression testing must be performed on the My Info module, which includes the Immigrations section
 
 <h4>1.1.4 Test scope</h4>
 
 >* Tests in scope: All the feature of Admin module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 
->* Tests not in scope: performance testing, integrations of the dependents module with other modules
+>* Tests not in scope: performance testing, integrations of the immigrations module with other modules
 
 <h4>1.1.5 Risks detected</H4>
 
@@ -85,3 +85,9 @@ The below Story was created in JIRA and describes the functional specifications 
 >* View all Immigrations in a list
   
 >* Check all validation constraints for the fields
+
+<h1>1.4 Test Design</h1>
+
+>Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
+
+*Test cases*
