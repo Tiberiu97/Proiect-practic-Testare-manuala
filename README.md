@@ -66,11 +66,11 @@ The below Story was created in JIRA and describes the functional specifications 
 
 >* The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
   
-  <h4>1.2 Test Monitoring and Control</h4>
+  <h2>1.2 Test Monitoring and Control</h2>
   
   ![Screenshot_17](https://github.com/Tiberiu97/Proiect-practic-Testare-manuala/assets/135150382/a8e8f453-69be-42c0-b14e-78cc31b253c2)
 
-  <h4>1.3 Test Analysis</h4>
+  <h2>1.3 Test Analysis</h2>
   
 >The testing process will be executed based on the above requirements for the Admin module. The following test conditions were found:
 
@@ -86,8 +86,38 @@ The below Story was created in JIRA and describes the functional specifications 
   
 >* Check all validation constraints for the fields
 
-<h1>1.4 Test Design</h1>
+<h2>1.4 Test Design</h2>
 
 >Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
 *Test cases*
+
+<h2>1.5 Test Implementation</h2>
+
+>The following elements are needed to be ready before the test execution phase begins:
+
+>* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+
+>* Access to the testing environment is given: Username : Admin | Password : admin123
+
+>* Cycle summary was created
+
+>* Test cases were added to the cycle summary
+
+>* Postman collection with the dependents API methods was created
+
+>* Authorization token was created for accessing the API
+
+<h2>1.6 Test Execution</h2>
+
+>* Test cases are executed on the created test Cycle summary
+
+>* API tests are executed based on the checklist
+
+<h2>1.7 Test Completion</h2>
+
+>* As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+
+<h1>2 SQL section</h1>
+
+>Created a database named 'orangehrm' and a table named 'immigrations' with all the columns needed to save data per specifications.
