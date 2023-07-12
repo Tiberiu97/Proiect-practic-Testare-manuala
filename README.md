@@ -94,6 +94,8 @@ The testing process will be executed based on the above requirements for the Imm
 
 *Test cases*
 
+![Screenshot_10](https://github.com/Tiberiu97/Proiect-practic-Testare-manuala/assets/135150382/b48e6839-a43c-414c-806e-6147e2678238)
+
 <h2>1.5 Test Implementation</h2>
 
 >The following elements are needed to be ready before the test execution phase begins:
