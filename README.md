@@ -52,7 +52,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 <h4>1.1.4 Test scope</h4>
 
->* Tests in scope: All the feature of Admin module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+>* Tests in scope: All the feature of Immigration module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 
 >* Tests not in scope: performance testing, integrations of the immigrations module with other modules
 
@@ -67,6 +67,8 @@ The below Story was created in JIRA and describes the functional specifications 
 >* The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
   
   <h2>1.2 Test Monitoring and Control</h2>
+
+>* Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 70% of the test cases were executed, on 17st July 2023:
   
   ![Screenshot_17](https://github.com/Tiberiu97/Proiect-practic-Testare-manuala/assets/135150382/a8e8f453-69be-42c0-b14e-78cc31b253c2)
 
