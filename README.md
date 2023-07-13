@@ -1,6 +1,6 @@
 <h1>Final project for ITF Manual Testing Course</h1>
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
 <strong>Application under test: https://opensource-demo.orangehrmlive.com/<strong>
 
@@ -56,7 +56,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 <h4>1.1.4 Test scope</h4>
 
->* Tests in scope: All the feature of Immigration module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+>* Tests in scope: All the features of the Immigration module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 
 >* Tests not in scope: performance testing, integrations of the immigrations module with other modules
 
@@ -64,11 +64,11 @@ The below Story was created in JIRA and describes the functional specifications 
 
 >* Project risks: lack of experience of the QA team, unavailability of test environment,  problems with test tools
 
->* Product risks: inability of the product to meet the customer's expectations
+>* Product risks: the inability of the product to meet the customer's expectations, new browsers might not be supported
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
->* The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+>* The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
   
   <h2>1.2 Test Monitoring and Control</h2>
 
@@ -86,7 +86,7 @@ The testing process will be executed based on the above requirements for the Imm
   
 >* Leave mandatory fields empty and check that the Immigration cannot be created/updated
   
->* View dependant details and check they are correct
+>* View immigration details and check they are correct
   
 >* View all Immigrations in a list
   
@@ -106,15 +106,17 @@ The testing process will be executed based on the above requirements for the Imm
 
 >* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
 
->* Access to the testing environment is given: Username : Admin | Password : admin123
+>* Access to the testing environment is given: Username: Admin | Password: admin123
 
 >* Cycle summary was created
 
 >* Test cases were added to the cycle summary
 
->* Postman collection with the dependents API methods was created
+>* Postman collection with the immigrations API methods was created
 
 >* Authorization token was created for accessing the API
+
+>* The Chrome browser is installed
 
 <h2>1.6 Test Execution</h2>
 
