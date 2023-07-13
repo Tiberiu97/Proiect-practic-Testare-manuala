@@ -34,9 +34,13 @@ The below Story was created in JIRA and describes the functional specifications 
 
 <h4>1.1.2 Entry criteria defined</h4>
 
+>* the website feature is partially/fully implemented
+
 >* functional specifications are defined
 
 >* roles needed for the project are allocated
+
+>* A designated space to work
 
 <h4>1.1.3 Exit criteria defined</h4>
 
